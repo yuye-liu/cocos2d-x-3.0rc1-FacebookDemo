@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'cocos2d-x-3.0rc1-FacebookDemo' target in the 'cocos2d-x-3.0rc1-FacebookDemo' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
